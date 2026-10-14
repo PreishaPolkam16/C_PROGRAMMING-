@@ -19,8 +19,6 @@ printf("Enter 5 characters: ");
 for (i = 0; i < 5; i++) {
 scanf(" %c", &charArr[i]);
 
-MIT ADT University, Pune
-
 }
 // Display integer array values and addresses
 printf("\nInteger Array:\n");
