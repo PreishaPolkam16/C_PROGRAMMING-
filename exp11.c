@@ -18,7 +18,6 @@ scanf("%f", &floatArr[i]);
 printf("Enter 5 characters: ");
 for (i = 0; i < 5; i++) {
 scanf(" %c", &charArr[i]);
-
 }
 // Display integer array values and addresses
 printf("\nInteger Array:\n");
